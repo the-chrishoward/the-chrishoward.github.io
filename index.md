@@ -20,9 +20,9 @@ Some of my favorite topics include:
 
 ## Projects
 Here are a few projects I've worked on at university:
-1. **[Dinosaur Surfers](#)**: Dinosaur Embedded Systems Game - More Details in my Dinosaur_Surfers repository.
-2. **[Binary Search Tree using a Treap](#)**: Implements a Binary Search Tree using a Treap - More information and code in the BinarySearch_Treap repository.
-3. **[Custom Stack Implementation](#)**: Implements a Custom Stack for use in C++, mimics the stack library commonly used - More Information in the Custom_Stack repository.
+1. **[Dinosaur Surfers](https://github.com/the-chrishoward/DinosaurSurfurs_Project)**: Dinosaur Embedded Systems Game - More Details in my Dinosaur_Surfers repository.
+2. **[Binary Search Tree using a Treap](https://github.com/the-chrishoward/BinarySearch_Treap)**: Implements a Binary Search Tree using a Treap - More information and code in the BinarySearch_Treap repository.
+3. **[Custom Stack Implementation](https://github.com/the-chrishoward/Custom_Stack)**: Implements a Custom Stack for use in C++, mimics the stack library commonly used - More Information in the Custom_Stack repository.
 
 Check out my [GitHub repositories](https://github.com/the-chrishoward) for more!
 
