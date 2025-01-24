@@ -1,0 +1,17 @@
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+
+# Exclude these files/folders from the build process
+exclude:
+  - _site/
+  - .github/
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Site settings
+title: "Chris Howard's Personal Website"
+description: "VT Computer Engineering Student - Personal Site highlighting my projects"
